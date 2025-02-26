@@ -1,2 +1,2 @@
 # IBM-JavaScript
-Used for the IBM JavaScript course
+This repo is used for the IBM JavaScript course https://www.coursera.org/learn/javascript-programming-essentials
